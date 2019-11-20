@@ -1,6 +1,6 @@
 # Forest Fires Prediction
 
-##Using these methods:- 
+Using these methods:- 
 
 
 1. Support Vector Regression
