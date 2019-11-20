@@ -1,11 +1,12 @@
 # Forest Fires Prediction
 
-Using these methods:- 
+##Using these methods:- 
 
-Support Vector Regression
 
-Decision Trees
+1. Support Vector Regression
 
-Random Forest
+2. Decision Trees
 
-Deep Neural Networks
+3. Random Forest
+
+4. Deep Neural Networks
